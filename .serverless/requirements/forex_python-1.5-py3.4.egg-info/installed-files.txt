@@ -1,0 +1,15 @@
+.
+../docs/__init__.py
+../docs/__init__.pyc
+../forex_python/__init__.py
+../forex_python/__init__.pyc
+../forex_python/bitcoin.py
+../forex_python/bitcoin.pyc
+../forex_python/converter.py
+../forex_python/converter.pyc
+../forex_python/raw_data/currencies.json
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt
